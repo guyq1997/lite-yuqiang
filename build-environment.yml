@@ -9,3 +9,11 @@ dependencies:
   - pip:
     - jupyterlite-xeus>=0.1.2,<0.2
     - jupyterlab-filesystem-access
+    - fsspec
+    - matplotlib
+    - ipympl
+    - pandas
+    - numpy
+    - basemap
+    - boto3
+    - seaborn
