@@ -5,7 +5,6 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - basemap
   - matplotlib
   - ipympl
   - seaborn
