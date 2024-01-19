@@ -1,4 +1,4 @@
-name: xeus-python-kernel
+name: my-kernel
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
@@ -9,3 +9,5 @@ dependencies:
   - seaborn
   - numpy
   - pandas
+  - ipympl
+  - basemap
