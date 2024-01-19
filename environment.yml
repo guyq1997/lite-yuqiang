@@ -10,4 +10,4 @@ dependencies:
   - numpy
   - pandas
   - ipympl
-  - basemap
+  - fsspec
