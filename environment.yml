@@ -6,7 +6,5 @@ dependencies:
   - xeus-python
   - ipycanvas
   - matplotlib
-  - ipympl
   - seaborn
-  - boto3
   - numpy
